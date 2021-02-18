@@ -2,8 +2,8 @@
 
 ## Install Python
 
-1. go to https://www.python.org/downloads/ and install python 3
-2. verify your python install by using  `python --version` or `python3 --version` from your shell.
+1. Go to https://www.python.org/downloads/ and install python 3
+2. Verify your python install by using  `python --version` or `python3 --version` from your shell.
 
 ## Install databases
 Usually you will need to set up databases to develop your backend projects. Python comes with a lightweight database called SQLite which is good enough for our 101 demo, so you won’t need to set up a database for now.
@@ -17,6 +17,7 @@ Usually you will need to set up databases to develop your backend projects. Pyth
 Unix/macOS:  `python get-pip.py` or `python3 get-pip.py`
 Windows: `py get-pip.py`
 2. Run `python -m pip install Django` to install Django
+3. Verify your django install by using `python -m django --version` or `python3 -m django --version` from your shell.
 
 
 
